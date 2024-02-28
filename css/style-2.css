@@ -9300,6 +9300,16 @@ strong {
     -o-transition: 0.3s;
     transition: 0.3s;
 }
+.model .icon-2 {
+    right: 20%;
+}
+.model .icon-3 {
+    right: 50%;
+}
+.model .icon-4 {
+    top: 30%;
+    right: 50%;
+}
 @media (prefers-reduced-motion: reduce) {
     .model .icon {
         -webkit-transition: none;
@@ -9457,7 +9467,7 @@ strong {
 }
 .testimony-wrap .user-img {
     width: 100%;
-    height: 300px;
+    height: 345px;
     position: relative;
 }
 .testimony-wrap .user-img .quote {
